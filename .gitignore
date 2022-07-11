@@ -1,0 +1,13 @@
+# ignore r-project files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Rproj
+# ignore public and resources for netlify
+/public
+/public/
+/resources/
+# misc
+.DS_Store
+Thumbs.db
