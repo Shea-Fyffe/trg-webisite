@@ -7,9 +7,9 @@ date_end: "2022-02-10T12:30:00Z"
 event: TRG February Meeting
 featured: true
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/yo01Z-9HQAw)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/Zo2pAarSL-A)'
   focal_point: Right
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-02-10T12:30:00Z"
 summary: A Summary of TRG February Talk
 tags:
 - Job Transformation
