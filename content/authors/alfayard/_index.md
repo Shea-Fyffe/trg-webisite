@@ -30,3 +30,17 @@ Anne-Laure Fayard is Chaired Professor in Social Innovation at NOVA School of Bu
 Anne-Laure is an ethnographer of work, whose interests involve collaboration, technology, innovation and design. Her work has been published in several leading academic such as Administrative Science Quarterly, Organization Science and Harvard Business Review. She is also the author with Anca Metiu of The Power of Writing in Organizations and has co-edited with Raza Mir _The Routledge Companion to Anthropology and Business_.
 
 She is passionate about human-centered design that she teaches, researches, and practices. Her research as well as social innovation projects has been frequently highlighted in major newspapers and magazines such as NewYork Times, Financial Times, The Economist, The Guardian and Le Monde.
+
+### Relevant Research
+
++ Fayard, A.-L., Weeks, J., & Khan, M. (2021, March 1). Designing the Hybrid Office. _Harvard Business Review._ [https://hbr.org/2021/03/designing-the-hybrid-office](https://hbr.org/2021/03/designing-the-hybrid-office)
+
++ Fayard, A.-L., 2019, Notes on the Meaning of Work: Labor, Work, and Action in the Twenty-First Century, _Journal of Managerial Inquiry, 30_(2), 207–220. [https://doi.org/10.1177/1056492619841705](https://doi.org/10.1177/1056492619841705)
+
++ Fayard, A.-L., Stigliani, I. and Bechky, B. 2017, How Nascent Occupations Construct a Mandate: The Case of Service Designers’ Ethos, _Administration Science Quarterly, 62_(2), 270-303. [https://doi.org/10.1177/0001839216665805](https://doi.org/10.1177/0001839216665805)
+
++ Fayard, A.-L., Gkeredakis, E., & Levina, N. (2016). Framing Innovation Opportunities While Staying Committed to an Organizational Epistemic Stance. _Information Systems Research, 27_(2), 302–323. [https://doi.org/10.1287/isre.2016.0623](https://doi.org/10.1287/isre.2016.0623)
+
++ Fayard, A.-L., & Van Maanen, J. (2015). Making culture visible: Reflections on corporate ethnography. _Journal of Organizational Ethnography, 4_(1), 4–27. [https://doi.org/10.1108/JOE-12-2014-0040](https://doi.org/10.1108/JOE-12-2014-0040)
+
+
