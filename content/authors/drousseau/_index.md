@@ -29,4 +29,8 @@ social:
 superuser: no
 ---
 
-ousseau is chair of the Health Care Policy and Management program and director of the Project on Evidence-Based Organizational Practices. Rousseau is also Academic Board President of the Center for Evidence-Based Management, and Co-Chair of the Campbell Library’s Management and Business Coordinating Group. Her publications include over a dozen books and over 220 articles and monographs in management and psychology journals. Rousseau received her A.B., M.A. and Ph.D. from the University of California at Berkeley with degrees in psychology and anthropology.
+Rousseau is chair of the Health Care Policy and Management program and director of the Project on Evidence-Based Organizational Practices. Rousseau is also Academic Board President of the Center for Evidence-Based Management, and Co-Chair of the Campbell Library’s Management and Business Coordinating Group. Her publications include over a dozen books and over 220 articles and monographs in management and psychology journals. Rousseau received her A.B., M.A. and Ph.D. from the University of California at Berkeley with degrees in psychology and anthropology.
+
+### Relevant Research
+
++ Schuster, T., Bader, A. K., Bader, B., & Rousseau, D. M. (2022). Does what happens abroad stay abroad? displaced aggression and emotional regulation in expatriate psychological contracts. _Journal of Occupational and Organizational Psychology, 95_(4), 867–888. https://doi.org/10.1111/joop.12405

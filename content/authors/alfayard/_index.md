@@ -33,6 +33,8 @@ She is passionate about human-centered design that she teaches, researches, and 
 
 ### Relevant Research
 
++ Fayard, A.-L., & Pache, A.-C. (2022). Common grounding: How to nurture cross-sector collaborations for Social Innovation. _Academy of Management Proceedings, 2022_(1). https://doi.org/10.5465/ambpp.2022.13535abstract
+
 + Fayard, A.-L., Weeks, J., & Khan, M. (2021, March 1). Designing the Hybrid Office. _Harvard Business Review._ [https://hbr.org/2021/03/designing-the-hybrid-office](https://hbr.org/2021/03/designing-the-hybrid-office)
 
 + Fayard, A.-L., 2019, Notes on the Meaning of Work: Labor, Work, and Action in the Twenty-First Century, _Journal of Managerial Inquiry, 30_(2), 207–220. [https://doi.org/10.1177/1056492619841705](https://doi.org/10.1177/1056492619841705)

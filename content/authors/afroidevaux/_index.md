@@ -38,3 +38,6 @@ She received her Ph.D. in Psychology from the University of Lausanne in Switzerl
 Dr. Froidevaux has taught courses in human resource management, organizational behavior, and career development at the undergraduate and graduate levels; and has five years of part-time industry experience in career counseling.
 
 She served as a Representative-at-large for the Executive Board of the Academy of Management Careers Division (2017-2020) and is currently a member of the Journal of Vocational Behavior and of Work, Aging and Retirement Editorial Boards.
+
+### Relevant Research
++ Zhan, Y., Froidevaux, A., Li, Y., Wang, M., & Shi, J. (2022). Preretirement resources and postretirement life satisfaction change trajectory: Examining the mediating role of retiree experience during retirement transition phase. _Journal of Applied Psychology,_ Advance online publication. https://doi.org/10.1037/apl0001043   
