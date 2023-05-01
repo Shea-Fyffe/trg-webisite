@@ -13,7 +13,7 @@ publishDate:
 summary:
 tags:
 - Edgar Schein
-title: "Remembering Professor Emeritus Edgar Schein, an influential leader in management"
+title: "Remembering TRG member Edgar Schein, an influential leader, researcher, and educator in management"
 links:
   - icon_pack: fa
     icon: link
