@@ -5,7 +5,7 @@ authors: ["Dr. Anne-Laure Fayard"]
 date: "2021-10-14T11:00:00Z"
 date_end: "2021-10-14T12:30:00Z"
 event: TRG October Meeting
-featured: true
+featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/QBAH4IldaZY)'
   focal_point: Right

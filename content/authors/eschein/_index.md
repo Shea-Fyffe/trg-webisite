@@ -1,5 +1,5 @@
 ---
-title: Ed Schein
+title: "Ed Schein"
 user_groups: ['Members']
 bio: ~
 email: "scheine@comcast.net"
@@ -8,7 +8,7 @@ interests:
 - Organizational Change
 - Career Dynamics
 - Research Process
-role: Society of Sloan Fellows Professor of Management Emeritus
+role: "1928-2023"
 highlight_name: true
 organizations:
 - name: Massachusetts Institute of Technology| MIT
@@ -23,6 +23,10 @@ social:
   icon_pack: fas
   link: https://scholar.google.com/citations?user=CLzsEE4AAAAJ&hl=en
 superuser: no
+---
+
+Recently, our beloved memeber Edgar Schein has passed. Please see his obituary [here](https://news.mit.edu/2023/remembering-professor-emeritus-edgar-schein-0303).
+
 ---
 
 Edgar Schein is the Society of Sloan Fellows Professor of Management Emeritus and a Professor Emeritus at the MIT Sloan School of Management.
