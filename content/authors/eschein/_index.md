@@ -25,7 +25,7 @@ social:
 superuser: no
 ---
 
-Recently, our beloved memeber Edgar Schein has passed. Please see his obituary [here](https://news.mit.edu/2023/remembering-professor-emeritus-edgar-schein-0303).
+Recently, our beloved member Edgar Schein has passed. Please see his obituary [here](https://news.mit.edu/2023/remembering-professor-emeritus-edgar-schein-0303).
 
 ---
 
